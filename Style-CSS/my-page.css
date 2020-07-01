@@ -8,6 +8,9 @@ body{
 .segment{   
     font-size: 15px;
 }
+.bg-img-1{
+    background-image: url("../images/header-bg.png");   
+}
 .texts{
     width: 40%;
     float: left;
