@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.segment{   
+    font-size: 15px;
+}
+.texts{
+    width: 40%;
+    float: left;
+    padding: 2% 0% 0% 15%;
+}
+.texts h1{
+    font-size: 55px;
+    font-weight: 600px;
+}
+.texts a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 800px;
+    background-color: rgb(204, 5, 104);
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.pirpul-style{
+    font-size: 65px;
+    font-weight: 800px;
+    color: rgb(204, 5, 104);
+}
+.picture img{
+    height: 500px;
+    margin-left:0px;
+    padding-top: 40px;   
+}
